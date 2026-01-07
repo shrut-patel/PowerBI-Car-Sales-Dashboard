@@ -81,7 +81,7 @@ You can use any of the following tools to work with this dataset:
 
 ## 👤 Author
 
-**Abhinav Kumar Singh**
+**Shrut Patel**
 
 ---
 
